@@ -1541,7 +1541,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58d6ca30b6f7bef4292e474f0a66ad06, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 10
+  speed: 15
   rb: {fileID: 751436577}
   startPosition: {x: 0, y: 0, z: 0}
 --- !u!1 &772380888
